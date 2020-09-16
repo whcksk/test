@@ -13,7 +13,7 @@
 </head>
 <body>
 	<div class="container panel panel-warning">
-		<h3 classs='panel-heading'>Ver1</h3>
+		<h3 classs='panel-heading'>Ver2</h3>
 	</div>
 </body>
 </html>
